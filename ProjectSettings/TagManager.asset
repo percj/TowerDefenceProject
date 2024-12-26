@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collect
+  - Refill
+  - FxTemporaire
+  - Station
+  - Coin
+  - MoneyArea
+  - StationObjects
+  - HireHelper
+  - Upgrade
+  - UpgradeHelper
+  - UpgradePlayer
+  - FirstDestroyableObject
+  - Wall
+  - Collide
+  - CanTakeDamage
+  - Tower
+  - Mine
+  - Tree
+  - BarrackPayment
+  - Enemy
+  - Patrol
+  - NearAttack
+  - InTown
+  - PatrolAreaUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessing
+  - Water
+  - UI
+  - AI
+  - Enemy
+  - Ally
+  - Menu
+  - MiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

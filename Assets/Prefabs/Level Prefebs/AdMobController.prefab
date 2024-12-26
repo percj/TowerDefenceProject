@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6526494410829028450
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6526494410829028766}
+  - component: {fileID: 6526494410829028449}
+  - component: {fileID: 6526494410829028448}
+  - component: {fileID: 6526494410829028764}
+  - component: {fileID: 6526494410829028767}
+  m_Layer: 0
+  m_Name: AdMobController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6526494410829028766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6526494410829028450}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 47.469482, y: 39.079548, z: 41.373375}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6526494410829028449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6526494410829028450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97ca6237d5cc92d4dbbcfa0f52fd3166, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  joystick: {fileID: 0}
+  countdownValue: 3
+  AndroidID: ca-app-pub-7072847384824958/2299511698
+  IosID: ca-app-pub-7072847384824958/2985907401
+--- !u!114 &6526494410829028448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6526494410829028450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2188b70bc613a8b479722e4e24e8de90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AndroidID: ca-app-pub-7072847384824958/1178001716
+  IosID: ca-app-pub-7072847384824958/8238234089
+--- !u!114 &6526494410829028764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6526494410829028450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a883ca6af8ca4654eb9358fc2d8a73b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  AndroidID: ca-app-pub-7072847384824958/1209791303
+  IosID: ca-app-pub-7072847384824958/5420499059
+--- !u!114 &6526494410829028767
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6526494410829028450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19dd330cf7f6a02479c187f2781850d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  AndroidID: ca-app-pub-7072847384824958/9059241606
+  IosID: ca-app-pub-7072847384824958/5831524602

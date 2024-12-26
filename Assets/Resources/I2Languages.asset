@@ -1,0 +1,482 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Upgrade Player
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade Player
+      - "Oyuncu Y\xFCkseltmesi"
+      - Spieler Aktualisieren
+      - "Mise \xE0 Niveau du Lecteur"
+      - Actualizar Reproductor
+      - Giocatore di Aggiornamento
+      - Atualizar Jogador
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Upgrade Helper
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade Helper
+      - "Yard\u0131mc\u0131 Y\xFCkseltmesi"
+      - Upgrade-Helfer
+      - "Aide \xE0 la Mise \xE0 Niveau"
+      - "Ayudante de Actualizaci\xF3n"
+      - Aggiornamento Helper
+      - "Auxiliar De Atualiza\xE7\xE3o"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Daily Rewards
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily Rewards
+      - "G\xFCnl\xFCk \xD6d\xFCller"
+      - "T\xE4gliche Belohnungen"
+      - "R\xE9compenses Quotidiennes"
+      - Recompensas Diarias
+      - Ricompense Giornaliere
+      - "Recompensas Di\xE1rias"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Player Upgrade pop up
+      TermType: 0
+      Description: 
+      Languages:
+      - Player Upgrade
+      - "Oyuncu Y\xFCkseltmesi"
+      - Spieler-Upgrade
+      - "Mise \xE0 Niveau du Joueur"
+      - "Actualizaci\xF3n de Jugador"
+      - Aggiornamento Giocatore
+      - "Atualiza\xE7\xE3o Do Jogador"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Employee Upgrade pop up
+      TermType: 0
+      Description: 
+      Languages:
+      - Employee Upgrade
+      - "\xC7al\u0131\u015Fan Y\xFCkseltmesi"
+      - Mitarbeiter-Upgrade
+      - "Surclassement Des Employ\xE9s"
+      - "Actualizaci\xF3n de Empleados"
+      - Aggiornamento dei Dipendenti
+      - "Atualiza\xE7\xE3o Do Funcion\xE1rio"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Capacity
+      TermType: 0
+      Description: 
+      Languages:
+      - Capacity
+      - Kapasite
+      - "Kapazit\xE4t"
+      - "Capacit\xE9"
+      - Capacidad
+      - Capacita
+      - Capacidade
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Collect Speed
+      TermType: 0
+      Description: 
+      Languages:
+      - Collect Speed
+      - "Toplama H\u0131z\u0131"
+      - Geschwindigkeit Sammeln
+      - Vitesse de Collecte
+      - "Velocidad de Recolecci\xF3n"
+      - "Raccogliere Velocit\xE0"
+      - Colete Velocidade
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Speed
+      TermType: 0
+      Description: 
+      Languages:
+      - Speed
+      - "H\u0131z"
+      - Geschwindigkeit
+      - Vitesse
+      - Velocidad
+      - Velocita
+      - Velocidade
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Daily Challenge
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily Challenge
+      - "G\xFCnl\xFCk G\xF6rev"
+      - "T\xE4gliche Herausforderung"
+      - Challenge Quotidien
+      - Reto Diario
+      - Sfida Quotidiana
+      - "Desafio Di\xE1rio"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: COLLECT
+      TermType: 0
+      Description: 
+      Languages:
+      - COLLECT
+      - TOPLA
+      - SAMMELN
+      - RECUEILLIR
+      - RECOGER
+      - RACCOGLIERE
+      - RECOLHER
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Come Tomorrow
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Come
+
+        Tomorrow'
+      - "Yar\u0131n Gel"
+      - "\rKommen\r\nMorgen"
+      - 'Viens
+
+        Demain'
+      - "Venir\r\nMa\xF1ana"
+      - 'Venga
+
+        Domani'
+      - "Venha\r\nAmanh\xE3"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: DAY
+      TermType: 0
+      Description: 
+      Languages:
+      - DAY
+      - "G\xDCN"
+      - TAG
+      - "JOURN\xC9E"
+      - "D\xCDA"
+      - GIORNO
+      - DIA
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: STORE
+      TermType: 0
+      Description: 
+      Languages:
+      - Store
+      - "Ma\u011Faza"
+      - "Gesch\xE4ft"
+      - Magasin
+      - Tienda
+      - Negozio
+      - Armazenar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Body Skin
+      TermType: 0
+      Description: 
+      Languages:
+      - Body Skins
+      - "Z\u0131rhlar"
+      - "R\xFCstungen"
+      - armures
+      - armaduras
+      - armature
+      - armaduras
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Head Skin
+      TermType: 0
+      Description: 
+      Languages:
+      - Head Skins
+      - Kasklar
+      - Helme
+      - Casques
+      - Cascos
+      - Caschi
+      - capacetes
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Levels
+      TermType: 0
+      Description: 
+      Languages:
+      - Levels
+      - Seviyeler
+      - Ebenen
+      - Niveaux
+      - Niveles
+      - Livelli
+      - "N\xEDveis"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Locked
+      TermType: 0
+      Description: 
+      Languages:
+      - Locked
+      - Kilitli
+      - Gesperrt
+      - "Ferm\xE9 \xE0 cl\xE9"
+      - Bloqueado
+      - Bloccato
+      - Bloqueado
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Store
+      TermType: 0
+      Description: 
+      Languages:
+      - Store
+      - "Ma\u011Faza"
+      - "Gesch\xE4ft"
+      - Magasin
+      - Tienda
+      - Negozio
+      - Armazenar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: PLAY
+      TermType: 0
+      Description: 
+      Languages:
+      - PLAY
+      - OYNA
+      - ABSPIELEN
+      - JOUER
+      - "DESEMPE\xD1AR"
+      - "GIOCARE A\r"
+      - TOQUE
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Coming Soon
+      TermType: 0
+      Description: 
+      Languages:
+      - Coming Soon
+      - "\xC7ok Yak\u0131nda"
+      - "Demn\xE4chst"
+      - "Bient\xF4t disponible"
+      - "Pr\xF3ximamente"
+      - Prossimamente
+      - Em breve
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Tower Health
+      TermType: 0
+      Description: 
+      Languages:
+      - Tower Health
+      - "Kule Can\u0131"
+      - Gesundheit des Turms
+      - "Sant\xE9 de la tour"
+      - Salud de la torre
+      - Salute della torre
+      - "Sa\xFAde da torre"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Add Archer
+      TermType: 0
+      Description: 
+      Languages:
+      - Add Archer
+      - "Ok\xE7u Ekle"
+      - "Bogensch\xFCtze hinzuf\xFCgen"
+      - Ajouter Archer
+      - Agregar Arquero
+      - Aggiungi Arciere
+      - Adicionar Arqueiro
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Archer
+      TermType: 0
+      Description: 
+      Languages:
+      - Archer
+      - "Ok\xE7u"
+      - "Bogensch\xFCtze"
+      - Archer
+      - Arquero
+      - Arciere
+      - Arqueiro
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Buy
+      TermType: 0
+      Description: 
+      Languages:
+      - Buy
+      - "Sat\u0131n Al"
+      - Kaufen
+      - acheter
+      - comprar
+      - acquistare
+      - Comprar
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Free Buy
+      TermType: 0
+      Description: 
+      Languages:
+      - Free Buy
+      - "\xDCcretsiz Sat\u0131n Al\r"
+      - Kostenlos kaufen
+      - Achat gratuit
+      - Compra gratis
+      - Compra gratis
+      - "Compra gr\xE1tis"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: "Ma\u0131n Menu"
+      TermType: 0
+      Description: 
+      Languages:
+      - Main Menu
+      - "Ana Men\xFC"
+      - "Hauptmen\xFC"
+      - Menu principal
+      - "Men\xFA principal\r"
+      - Menu principale
+      - Menu principal
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: "Try Aga\u0131n"
+      TermType: 0
+      Description: 
+      Languages:
+      - Try Again
+      - Tekrar Deneyin
+      - versuchen Sie es nochmal
+      - "R\xE9essayer"
+      - Intentar otra vez
+      - Riprova
+      - Tente novamente
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Go Underground for Castle
+      TermType: 0
+      Description: 
+      Languages:
+      - Go Underground for Castle
+      - "Kale i\xE7in Yeralt\u0131na Git"
+      - Gehen Sie zum Schloss in den Untergrund
+      - "Allez sous terre pour le ch\xE2teau"
+      - "Ir subterr\xE1neo para el castillo"
+      - Vai sottoterra per Castle
+      - "Ir subterr\xE2neo para o castelo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Go Underground for collect Resource
+      TermType: 0
+      Description: 
+      Languages:
+      - Go Underground for  Resources
+      - "Kaynaklar i\xE7in Yeralt\u0131na Gidin"
+      - "Gehen Sie f\xFCr Ressourcen in den Untergrund"
+      - Aller sous terre pour les ressources
+      - Vaya a la clandestinidad en busca de recursos
+      - Vai sottoterra per le risorse
+      - "V\xE1 \xE0 clandestinidade para obter recursos"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Buy Barracks
+      TermType: 0
+      Description: 
+      Languages:
+      - Buy Barracks
+      - "K\u0131\u015Fla Sat\u0131n Al"
+      - Kaserne kaufen
+      - Acheter des casernes
+      - Comprar cuarteles
+      - Compra Caserma
+      - Comprar Quartel
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVEL
+      TermType: 0
+      Description: 
+      Languages:
+      - LEVEL
+      - Seviye
+      - Eben
+      - Niveau
+      - Nivel
+      - Livello
+      - "N\xEDvel"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Next Level
+      TermType: 0
+      Description: 
+      Languages:
+      - Next Level
+      - Sonraki Seviye
+      - "N\xE4chste Ebene"
+      - Niveau suivant
+      - Siguiente nivel
+      - Livello successivo
+      - "Pr\xF3ximo n\xEDvel"
+      Flags: 00000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Turkish
+      Code: tr
+      Flags: 0
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: French (France)
+      Code: fr-FR
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    - Name: Portuguese
+      Code: pt
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
